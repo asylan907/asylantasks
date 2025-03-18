@@ -1,0 +1,31 @@
+Видеоадаптер
+NVIDIA T1000 8GB
+Поставщик: NVIDIA
+Характеристики: 
+00000000
+00CF0001
+PCI\VEN_10DE&DEV_1FF0&SUBSYS_161217AA&REV_A1
+PCI\VEN_10DE&DEV_1FF0&SUBSYS_161217AA
+PCI\VEN_10DE&DEV_1FF0&CC_030000
+PCI\VEN_10DE&DEV_1FF0&CC_0300
+_______________________________________________________
+
+Клавиатура
+Клавиатура HID
+Поставщик: Microsoft
+Характеристики: 
+000000A0
+CM_DEVCAP_SILENTINSTALL
+CM_DEVCAP_SURPRISEREMOVALOK
+________________________________________________________
+
+Процессор
+13th Gen Intel(R) Core(TM) i7-13700K
+Поставщик: Intel
+Характеристики:
+00000030
+CM_DEVCAP_UNIQUEID
+CM_DEVCAP_SILENTINSTALL
+
+
+
